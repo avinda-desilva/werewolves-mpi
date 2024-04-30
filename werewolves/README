@@ -18,7 +18,7 @@ sudo ./install.sh
 
 ...to get it installed.
 
-Group Members: Avinda De Silva, Clay Castronovo, Guoan Hu
+Group Members: Avinda De Silva, Clay Castronovo
 
 Implemented MPI communication using python's mpi4py library
 
