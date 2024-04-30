@@ -2,13 +2,14 @@
 #Test and Update: Xu Zhang
 #Thanks to Jeff Knockel, Geoff Reedy, Matthew Hall, and Geoff Alexander for
 #suggesting fixes to communication.py
-#De-bugged, tested and edited: Tim C'de Baca and John Montoya 7/2014
+
+#Upgraded Werewolves to work with MPI
 #Virtual Werewolves
 #Collaborators: Roya Ensafi, Jed Crandall
 #Cybersecurity, Spring 2012
 #This script has generic helper functions used by the Mafia server and clients
 
-#Copyright (c) 2012 Mike Jacobi, Xu Zhang, Roya Ensafi, Jed Crandall
+#Copyright (c) 2012 Mike Jacobi, Xu Zhang, Roya Ensafi, Jed Crandall, Avinda De Silva, Clay Castronovo
 #This file is part of Virtual Werewolf Game.
 
 #Virtual werewolf is free software: you can redistribute it and/or modify
