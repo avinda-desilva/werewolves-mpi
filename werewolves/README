@@ -23,3 +23,5 @@ Group Members: Avinda De Silva, Clay Castronovo
 Implemented MPI communication using python's mpi4py library
 
 GPL License has been updated for the modified file: communication.py
+
+Do not use this for future offerings of CSE 536.
